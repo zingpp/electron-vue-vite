@@ -23,6 +23,8 @@ yarn app:build //发布应用
 （undownload 文件也可以更改自行下载对应版本）
 
 ```
+系统文件夹
+
 Linux: $XDG_CACHE_HOME or ~/.cache/electron/   //Linux还未配置
 MacOS: ~/Library/Caches/electron/    //macos还未配置
 Windows: %LOCALAPPDATA%/electron/Cache or ~/AppData/Local/electron/Cache/
